@@ -25,19 +25,9 @@ interactive elements, and a clean visual identity.The project is designed to pro
 * CSS3
 * JavaScript
 
-## 📁 Project Structure
-
-├── index.html
-├── about.html
-├── services.html
-├── portfolio.html
-├── contact.html
-├── css/
-├── js/
-
-
 ## 🌐 Live Demo
 
+https://arishamukhtiar5.github.io/Nexawave-Website/
 
 ## 👩‍💻 Developer
 
